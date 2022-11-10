@@ -1,0 +1,9 @@
+Perguntas Interessantes:
+
+1- Qual funcionário atendeu mais clientes?
+2- Qual a proporção de homens e mulheres entre os clientes?
+3- Qual a categoria de mídia tem o maior número (filmes ou séries)?
+
+
+- STREAMING_DATABASE = contem as tabelas com as chaves, etc ...
+- STREAMIN_INSERT = possui os dados de INSERT, possibilidade de DELET, UPDATE, etc ... 
